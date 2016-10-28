@@ -1,0 +1,87 @@
+{
+  "headerId":"99999",
+  "headerVersion":"1.0",
+
+  "checkCustomerType": "15",
+  "makePaymentType": "51",
+  "retrieveFundingSourceType": "33",
+
+  "currencyCode": "USD",
+  "customerDetailsRequest": "CheckCustomerRequest",
+  "retrieveFundingSourcesRequest": "retrieve_funding_accounts_request",
+  "paymentRequest": "AddPaymentRequest",
+
+  "prdouctId" : 2,
+  "channelType": 21,
+
+  "accountType": 1,
+  "stat":1,
+  "currencyCode3d": "USD",
+  "userId": "guest_user",
+  
+  "active":1,
+  "inactive":9,
+  "disabled":5,
+
+  "suspend":8,
+  
+  "revoked":7,
+  "voluntaryCancellation": 6, 
+
+  "defaultUser":{
+    "fromAc":["USA", "INDIA"],
+    "toAc":["USA", "INDIA"]
+    },
+  "959817980812502":{
+    "username": "dev1_manish",
+    "comments": "two funding accounts",
+    "partnerKey": "0084308563",
+    "extIssuedCustomerId": 6318842,
+    "accountNo": "0971734",
+    "key":"CH016XPB2GV8X664"
+  },
+
+  "1336776689690148":{
+    "username": "stuart",
+    "comments": "two funding accounts",
+    "partnerKey": "0084308563",
+    "extIssuedCustomerId": 6318843,
+    "accountNo": "4824472",
+    "key":"CH016XPB2GV8X664"
+  },
+
+  "1180879245317392":{
+    "username": "dev1_manish",
+    "comments": "two funding accounts",
+    "partnerKey": "0084308563",
+    "extIssuedCustomerId": 6318842,
+    "accountNo": "0971734",
+    "key":"CH016XPB2GV8X664"
+  },
+
+  "defaultUser":{   
+    "username": "dev1_manish",
+    "comments": "two funding accounts",
+    "partnerKey": "0084308563",
+    "extIssuedCustomerId": 6318842,
+    "accountNo": "0971734",
+    "key":"CH016XPB2GV8X664"   
+  },
+  "1237888629595047":{
+    "user name": "dev2_jana",
+    "comments":"working properly",
+    "partnerKey": "0084308563",
+    "extIssuedCustomerId":6198123 ,
+    "accountNo": "9298150",
+    "key":"CH016XPB2GV8X664"
+  },
+  "1453152901368805":{
+    "username": "dev3us_stuart",
+    "comments": "two funding accounts",
+    "partnerKey": "0084308563",
+    "extIssuedCustomerId": 6318845,
+    "accountNo": "7100644",
+    "key":"CH016XPB2GV8X664"
+  }
+}
+
